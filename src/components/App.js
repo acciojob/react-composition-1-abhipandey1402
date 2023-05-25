@@ -9,7 +9,6 @@ const App = () => {
 
   return (
     <div>
-      Abhi
       <Tabs tabs={obj} />
     </div>
   )
